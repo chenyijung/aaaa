@@ -1,0 +1,23 @@
+{
+  "size": {
+    "width": 2500,
+    "height": 1686
+  },
+  "name": "圖文選單2",
+  "chatBarText": "查看更多資訊",
+  "areas": [
+    {
+      "bounds": {
+        "x": 12,
+        "y": 12,
+        "width": 1180,
+        "height": 1674
+      },
+      "action": {
+        "type": "postback",
+        "text": "文字文字文字",
+        "data": "資料資料資料"
+      }
+    }
+  ]
+}
