@@ -12,17 +12,17 @@
           {
             "type": "postback",
             "label": "價目表",
-            "data": "folder=MegaStone價目表"
+            "data": "folder=North_MegaStone價目表"
           },
           {
             "type": "postback",
             "label": "地址",
-            "data": "folder=MegaStone地址"
+            "data": "folder=North_MegaStone地址"
           },
           {
             "type": "message",
             "label": "電話",
-            "text": "02 8992 8991"
+            "data": "folder=North_MegaStone電話"
           }
         ]
       }
