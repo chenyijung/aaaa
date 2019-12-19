@@ -26,6 +26,27 @@
             "data": "folder=North_MegaStone電話"
           }
         ]
+      },
+      {
+        "title": "POGO",
+        "text": "抱石場",
+        "actions": [
+          {
+            "type": "postback",
+            "label": "價目表",
+            "data": "folder=North_POGO價目表"
+          },
+          {
+            "type": "postback",
+            "label": "地址",
+            "data": "folder=North_POGO地址"
+          },
+          {
+            "type": "postback",
+            "label": "電話",
+            "data": "folder=North_POGO電話"
+          }
+        ]
       }
     ]
   }
