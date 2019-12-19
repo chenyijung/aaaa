@@ -10,7 +10,6 @@
       {
         "type": "postback",
         "label": "室內岩場",
-        "text": "gogo室內岩場",
         "data": "folder=gogo室內岩場"
       },
       {
