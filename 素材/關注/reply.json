@@ -15,8 +15,7 @@
       {
         "type": "postback",
         "label": "戶外攀岩",
-        "text": "gogo戶外攀岩",
-        "data": "menu=gogo戶外攀岩"
+        "data": "folder=gogo戶外攀岩"
       }
     ],
     "title": "走吧，一起去攀岩！",
