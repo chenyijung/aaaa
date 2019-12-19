@@ -8,7 +8,7 @@
         "type": "postback",
         "label": "北部",
         "text": "gogo北部",
-        "data": "北部"
+        "postback": "北部岩場"
       },
       {
         "type": "postback",
