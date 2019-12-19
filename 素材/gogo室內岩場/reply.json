@@ -8,13 +8,25 @@
         "type": "postback",
         "label": "北部",
         "text": "gogo北部",
-        "postback": "北部岩場"
+        "data": "folder=北部岩場"
       },
       {
         "type": "postback",
         "label": "中部",
         "text": "gogo中部",
-        "data": "中部"
+        "data": "folder=中部岩場"
+      },
+      {
+        "type": "postback",
+        "label": "南部",
+        "text": "動作 3",
+        "data": "folder=南部岩場"
+      },
+      {
+        "type": "postback",
+        "label": "東部",
+        "text": "動作 4",
+        "data": "folder=東部岩場"
       }
     ],
     "title": "地點",
