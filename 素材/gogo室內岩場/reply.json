@@ -1,0 +1,23 @@
+[{
+  "type": "template",
+  "altText": "this is a buttons template",
+  "template": {
+    "type": "buttons",
+    "actions": [
+      {
+        "type": "postback",
+        "label": "北部",
+        "text": "gogo北部",
+        "data": "北部"
+      },
+      {
+        "type": "postback",
+        "label": "中部",
+        "text": "gogo中部",
+        "data": "中部"
+      }
+    ],
+    "title": "地點",
+    "text": "文字"
+  }
+}]

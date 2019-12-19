@@ -1,4 +1,26 @@
 [{
   "type": "text",
   "text": "歡迎來到攀岩的小天地\n在這裡，你可以找到全台岩場資訊，就讓我們一起去攀岩吧！"
+},{
+  "type": "template",
+  "altText": "this is a buttons template",
+  "template": {
+    "type": "buttons",
+    "actions": [
+      {
+        "type": "postback",
+        "label": "室內岩場",
+        "text": "gogo室內岩場",
+        "data": "folder=gogo室內岩場"
+      },
+      {
+        "type": "postback",
+        "label": "戶外攀岩",
+        "text": "gogo戶外攀岩",
+        "data": "menu=gogo戶外攀岩"
+      }
+    ],
+    "title": "走吧，一起去攀岩！",
+    "text": "文字"
+  }
 }]
