@@ -19,13 +19,13 @@
       {
         "type": "postback",
         "label": "南部",
-        "text": "動作 3",
+        "text": "gogo南部",
         "data": "folder=indoor_south"
       },
       {
         "type": "postback",
         "label": "東部",
-        "text": "動作 4",
+        "text": "gogo東部",
         "data": "folder=indoor_east"
       }
     ],
