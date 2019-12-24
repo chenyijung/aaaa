@@ -1,0 +1,26 @@
+[{
+  "type": "template",
+  "altText": "this is a buttons template",
+  "template": {
+    "type": "buttons",
+    "actions": [
+      {
+        "type": "postback",
+        "label": "傳統攀登",
+        "data": "folder=intro_tradclimb"
+      },
+      {
+        "type": "postback",
+        "label": "運動攀登",
+        "data": "folder=intro_sportclimb"
+      },
+      {
+        "type": "postback",
+        "label": "抱石",
+        "data": "folder=intro_bouldering"
+      }
+    ],
+    "title": "攀岩種類介紹",
+    "text": "Introduce"
+  }
+}]
