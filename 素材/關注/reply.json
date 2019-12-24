@@ -10,7 +10,7 @@
       {
         "type": "postback",
         "label": "攀岩種類介紹",
-        "data": "menu=rich_menu_0"
+        "data": "fold=intro"
       },
       {
         "type": "postback",
