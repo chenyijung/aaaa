@@ -13,17 +13,17 @@
           {
             "type": "postback",
             "label": "價目表",
-            "data": "tag=indoor_north_price_mega"
+            "data": "folder=indoor_north_price_mega"
           },
           {
             "type": "postback",
             "label": "地址",
-            "data": "tag=indoor_north_address_mega"
+            "data": "folder=indoor_north_address_mega"
           },
           {
             "type": "postback",
             "label": "電話",
-            "data": "tag=indoor_north_tel_mega"
+            "data": "folder=indoor_north_tel_mega"
           }
         ]
       },
@@ -34,17 +34,17 @@
           {
             "type": "postback",
             "label": "價目表",
-            "data": "tag=indoor_north_price_pogo"
+            "data": "folder=indoor_north_price_pogo"
           },
           {
             "type": "postback",
             "label": "地址",
-            "data": "tag=indoor_north_address_pogo"
+            "data": "folder=indoor_north_address_pogo"
           },
           {
             "type": "postback",
             "label": "電話",
-            "data": "tag=indoor_north_tel_pogo"
+            "data": "folder=indoor_north_tel_pogo"
           }
         ]
       }
