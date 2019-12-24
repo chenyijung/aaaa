@@ -7,7 +7,7 @@
       {
         "type": "postback",
         "label": "北部",
-        "text": "",
+        "text": "gogo",
         "data": "folder=indoor_north"
       },
       {
