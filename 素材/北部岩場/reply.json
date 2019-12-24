@@ -13,17 +13,17 @@
           {
             "type": "postback",
             "label": "價目表",
-            "data": "folder=North_MegaStone價目表"
+            "data": "tag=indoor_north_price_mega"
           },
           {
             "type": "postback",
             "label": "地址",
-            "data": "folder=North_MegaStone地址"
+            "data": "tag=indoor_north_address_mega"
           },
           {
             "type": "postback",
             "label": "電話",
-            "data": "folder=North_MegaStone電話"
+            "data": "tag=indoor_north_tel_mega"
           }
         ]
       },
@@ -34,17 +34,17 @@
           {
             "type": "postback",
             "label": "價目表",
-            "data": "folder=North_POGO價目表"
+            "data": "tag=indoor_north_price_pogo"
           },
           {
             "type": "postback",
             "label": "地址",
-            "data": "folder=North_POGO地址"
+            "data": "tag=indoor_north_address_pogo"
           },
           {
             "type": "postback",
             "label": "電話",
-            "data": "folder=North_POGO電話"
+            "data": "tag=indoor_north_tel_pogo"
           }
         ]
       }

@@ -266,6 +266,24 @@ def process_postback_event(event):
             result_message_array
         )
 
+    
+    elif 'tag' in query_string_dict:
+    
+        result_message_array =[]
+
+        replyJsonPath = '素材/tag/'+query_string_dict.get('tag')[0]+"/reply.json"
+        result_message_array = detect_json_array_to_new_message_array(replyJsonPath)
+  
+        line_bot_api.reply_message(
+            event.reply_token,
+            result_message_array
+        )
+    
+    
+
+    
+    
+    
 
 # In[ ]:
 
