@@ -8,28 +8,28 @@
         "type": "postback",
         "label": "北部",
         "text": "gogo北部",
-        "data": "folder=北部岩場"
+        "data": "folder=indoor_north"
       },
       {
         "type": "postback",
         "label": "中部",
         "text": "gogo中部",
-        "data": "folder=中部岩場"
+        "data": "folder=indoor_west"
       },
       {
         "type": "postback",
         "label": "南部",
         "text": "動作 3",
-        "data": "folder=南部岩場"
+        "data": "folder=indoor_south"
       },
       {
         "type": "postback",
         "label": "東部",
         "text": "動作 4",
-        "data": "folder=東部岩場"
+        "data": "folder=indoor_east"
       }
     ],
-    "title": "地點",
-    "text": "文字"
+    "title": "來室內岩場一起玩吧！",
+    "text": "想去哪？"
   }
 }]

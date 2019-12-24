@@ -1,6 +1,6 @@
 [{
   "type": "text",
-  "text": "歡迎來到攀岩的小天地\n在這裡，你可以找到全台岩場資訊，就讓我們一起去攀岩吧！"
+  "text": "歡迎來到攀岩的小天地\n在這裡，你可以得知攀岩的相關資訊，\n也可以找到全台岩場資訊，就讓我們一起去攀岩吧！"
 },{
   "type": "template",
   "altText": "this is a buttons template",
@@ -9,16 +9,26 @@
     "actions": [
       {
         "type": "postback",
+        "label": "攀岩種類介紹",
+        "data": "folder=intro"
+      },
+      {
+        "type": "postback",
+        "label": "認識器材",
+        "data": "folder=equip"
+      },
+      {
+        "type": "postback",
         "label": "室內岩場",
-        "data": "folder=gogo室內岩場"
+        "data": "folder=indoor"
       },
       {
         "type": "postback",
         "label": "戶外攀岩",
-        "data": "folder=gogo戶外攀岩"
+        "data": "folder=outdoor"
       }
     ],
-    "title": "走吧，一起去攀岩！",
-    "text": "文字"
+    "title": "走吧！我們一起去攀岩！",
+    "text": "認識攀岩"
   }
 }]
