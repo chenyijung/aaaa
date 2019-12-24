@@ -159,12 +159,10 @@ def process_follow_event(event):
     replyJsonPath = "素材/關注/reply.json"
     result_message_array = detect_json_array_to_new_message_array(replyJsonPath)
     
-    
+    # 關注訊息時出現rich_menu
     linkRichMenuId = open("素材/關注/rich_menu_id", 'r').read()
     line_bot_api.link_rich_menu_to_user(event.source.user_id,linkRichMenuId)
         
-    replyJsonPath = "素材/關注/rich_menu.json"
-    result_message_array = detect_json_array_to_new_message_array(replyJsonPath)
 
     # 消息發送
     line_bot_api.reply_message(
