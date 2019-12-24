@@ -19,7 +19,7 @@
       {
         "type": "postback",
         "label": "南部",
-        "text": "gogo南部",
+        "text": "",
         "data": "folder=indoor_south"
       },
       {
