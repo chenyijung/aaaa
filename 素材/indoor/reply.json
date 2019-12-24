@@ -7,13 +7,13 @@
       {
         "type": "postback",
         "label": "北部",
-        "text": "gogo北部",
+        "text": "",
         "data": "folder=indoor_north"
       },
       {
         "type": "postback",
         "label": "中部",
-        "text": "gogo中部",
+        "text": "",
         "data": "folder=indoor_west"
       },
       {
@@ -25,7 +25,7 @@
       {
         "type": "postback",
         "label": "東部",
-        "text": "gogo東部",
+        "text": "",
         "data": "folder=indoor_east"
       }
     ],
