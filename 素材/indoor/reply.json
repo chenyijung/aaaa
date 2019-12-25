@@ -13,7 +13,7 @@
       {
         "type": "postback",
         "label": "中部",
-        "text": "",
+        "text": "gogo",
         "data": "folder=indoor_west"
       },
       {
