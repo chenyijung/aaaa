@@ -125,7 +125,10 @@ def detect_json_array_to_new_message_array(fileName):
         elif message_type == 'flex':
             returnArray.append(FlexSendMessage.new_from_json_dict(jsonObject))  
         elif message_type == 'video':
-            returnArray.append(VideoSendMessage.new_from_json_dict(jsonObject))    
+            returnArray.append(VideoSendMessage.new_from_json_dict(jsonObject)) 
+        # 新增flex message種類
+        elif message_type == 'carousel':
+            returnArray.append(FlexSendMessage.new_from_json_dict(jsonObject)) 
 
 
     # 回傳
