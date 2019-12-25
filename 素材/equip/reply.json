@@ -1,6 +1,6 @@
 [{
   "type": "imagemap",
-  "baseUrl": "https://imgur.com/7EEjSzQ/1040",
+  "baseUrl": "PROVIDE_URL_FROM_YOUR_SERVER",
   "altText": "This is an imagemap",
   "baseSize": {
     "width": 1040,
