@@ -7,29 +7,29 @@
       {
         "type": "postback",
         "label": "北部",
-        "text": "gogo",
-        "data": "folder=indoor_north"
+        "text": "北",
+        "data": "folder=indoor_north_test"
       },
       {
         "type": "postback",
         "label": "中部",
-        "text": "gogo",
+        "text": "中",
         "data": "folder=indoor_west"
       },
       {
         "type": "postback",
         "label": "南部",
-        "text": "",
+        "text": "南",
         "data": "folder=indoor_south"
       },
       {
         "type": "postback",
         "label": "東部",
-        "text": "",
+        "text": "東",
         "data": "folder=indoor_east"
       }
     ],
-    "title": "來室內岩場一起玩吧！",
-    "text": "想去哪？"
+    "title": "來室內岩場玩吧！",
+    "text": "請選擇區域"
   }
 }]
