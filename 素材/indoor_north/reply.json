@@ -13,6 +13,7 @@
           {
             "type": "postback",
             "label": "價目表",
+            "text": "hihi"
             "data": "folder=indoor_north_price_mega"
           },
           {
