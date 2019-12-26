@@ -337,8 +337,10 @@
                                           "flex":0,
                                           "color":"#ffffff",
                                           "action":{
-                                             "type":"postback",
-                                             "data":"folder=indoor_north_price_pogo"
+                                          "type": "uri",
+                                          "label": "action",
+                                          "uri": "https://scontent.ftpe8-4.fna.fbcdn.net/v/t1.0-9/74788565_2520178368212120_1411450670078230528_o.jpg?_nc_cat=102&_nc_ohc=2r_wp1keGigAQkySU1YBsYQdcKCXWD5nmJ0DT_xv0kb9QLuXop4ZmcYGQ&_nc_ht=scontent.ftpe8-4.fna&oh=1e021949c4631a7f84f20b57118e6e24&oe=5E734812"
+                        }
                                           }
                                        },
                                        {
