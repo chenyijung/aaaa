@@ -1,0 +1,258 @@
+[
+  {
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+      "type": "carousel",
+      "contents": [
+        {
+          "type": "bubble",
+          "body": {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://i1.wp.com/www.ourtrails.com.tw/wp-content/uploads/2019/06/pics-column-rock-climbing.jpg?resize=1024%2C768",
+                "size": "full",
+                "aspectMode": "cover",
+                "aspectRatio": "1:1",
+                "gravity": "center",
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "http://linecorp.com/"
+                }
+              },
+              {
+                "type": "image",
+                "url": "https://scdn.line-apps.com/n/channel_devcenter/img/flexsnapshot/clip/clip15.png",
+                "position": "absolute",
+                "aspectMode": "fit",
+                "aspectRatio": "1:1",
+                "offsetTop": "0px",
+                "offsetBottom": "0px",
+                "offsetStart": "0px",
+                "offsetEnd": "0px",
+                "size": "full"
+              },
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "box",
+                        "layout": "horizontal",
+                        "contents": [
+                          {
+                            "type": "text",
+                            "text": "龍洞",
+                            "size": "xl",
+                            "color": "#ffffff"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "box",
+                        "layout": "baseline",
+                        "contents": [
+                          {
+                            "type": "text",
+                            "text": "新北市貢寮區",
+                            "color": "#a9a9a9"
+                          }
+                        ],
+                        "spacing": "xs"
+                      }
+                    ],
+                    "spacing": "xs"
+                  }
+                ],
+                "position": "absolute",
+                "offsetBottom": "0px",
+                "offsetStart": "0px",
+                "offsetEnd": "0px",
+                "paddingAll": "20px",
+                "action": {
+                  "type": "postback",
+                  "label": "action",
+                  "data": "folder=outdoor_dragon"
+                }
+              }
+            ],
+            "paddingAll": "0px"
+          }
+
+        },
+        {
+  "type": "bubble",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "image",
+        "url": "https://img.ltn.com.tw/Upload/playing/page/2018/05/19/180519-9715-2-Y2dcc.jpg",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "1:1",
+        "gravity": "center",
+        "action": {
+          "type": "postback",
+          "label": "action",
+          "data": "folder=outdoor_guan"
+        }
+      },
+      {
+        "type": "image",
+        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/flexsnapshot/clip/clip15.png",
+        "position": "absolute",
+        "aspectMode": "fit",
+        "aspectRatio": "1:1",
+        "offsetTop": "0px",
+        "offsetBottom": "0px",
+        "offsetStart": "0px",
+        "offsetEnd": "0px",
+        "size": "full"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "關子嶺",
+                    "size": "xl",
+                    "color": "#ffffff"
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "台南市白河區",
+                    "color": "#a9a9a9"
+                  }
+                ],
+                "spacing": "xs"
+              }
+            ],
+            "spacing": "xs"
+          }
+        ],
+        "position": "absolute",
+        "offsetBottom": "0px",
+        "offsetStart": "0px",
+        "offsetEnd": "0px",
+        "paddingAll": "20px",
+        "action": {
+          "type": "postback",
+          "label": "action",
+          "data": "folder=outdoor_dragon"
+        }
+      }
+    ],
+    "paddingAll": "0px"
+  }
+},
+        {
+  "type": "bubble",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "image",
+        "url": "https://fearless.cool/wp-content/uploads/2017/10/%E6%94%80%E5%B2%A9%E5%A4%A9%E7%84%B6%E5%B2%A9%E5%A0%B4%EF%BC%8D%E9%AB%98%E9%9B%84%EF%BC%8D%E4%B8%80%E7%B7%9A%E5%A4%A9%E5%B2%A9%E5%A0%B4%EF%BC%8D%E7%9B%A4%E9%BE%8D%E5%B3%BD%E8%B0%B7-1024x1024.jpg",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "1:1",
+        "gravity": "center",
+        "action": {
+          "type": "postback",
+          "label": "action",
+          "data": "folder=outdoor_shoushan"
+        }
+      },
+      {
+        "type": "image",
+        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/flexsnapshot/clip/clip15.png",
+        "position": "absolute",
+        "aspectMode": "fit",
+        "aspectRatio": "1:1",
+        "offsetTop": "0px",
+        "offsetBottom": "0px",
+        "offsetStart": "0px",
+        "offsetEnd": "0px",
+        "size": "full"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "壽山",
+                    "size": "xl",
+                    "color": "#ffffff"
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "高雄市鼓山區",
+                    "color": "#a9a9a9"
+                  }
+                ],
+                "spacing": "xs"
+              }
+            ],
+            "spacing": "xs"
+          }
+        ],
+        "position": "absolute",
+        "offsetBottom": "0px",
+        "offsetStart": "0px",
+        "offsetEnd": "0px",
+        "paddingAll": "20px",
+        "action": {
+          "type": "postback",
+          "label": "action",
+          "data": "folder=outdoor_dragon"
+        }
+      }
+    ],
+    "paddingAll": "0px"
+  }
+}
+      ]
+    }
+  }
+]
