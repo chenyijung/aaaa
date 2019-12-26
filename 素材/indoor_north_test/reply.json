@@ -96,7 +96,7 @@
           "contents": [
             {
               "type": "text",
-              "text": "POGO",
+              "text": "Mega Stone",
               "size": "lg",
               "align": "center",
               "weight": "bold",
@@ -106,7 +106,7 @@
         },
         "hero": {
           "type": "image",
-          "url": "https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/72711375_2513156555580968_5577325014530654208_o.png?_nc_cat=107&_nc_ohc=D_vsiPfduPkAQl5n_p_-5EmNVjqrdXihlDCPW7q8XcqU78a9BHg4Rhz6A&_nc_ht=scontent.ftpe8-3.fna&oh=46a4e1786e8d574b0a8f4d1b13369a27&oe=5EA8A1D9",
+          "url": "https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/57618428_425139188047630_7415724180047396864_o.jpg?_nc_cat=107&_nc_ohc=KhHt1plpknMAQn0Y8q3TktyqkJnmY36N39USef3TtfXMypqTdey0KhKYQ&_nc_ht=scontent.ftpe8-3.fna&oh=c51f71993d44ad3f59f177adab5fa458&oe=5EA558A4",
           "gravity": "top",
           "size": "lg",
           "aspectRatio": "1.51:1",
@@ -145,7 +145,7 @@
               "action": {
                 "type": "uri",
                 "label": "Facebook",
-                "uri": "https://www.facebook.com/pogobouldering/"
+                "uri": "https://www.facebook.com/Mega-STONE-Climbing-Gym-425135808047968/?tn-str=k*F"
               },
               "style": "primary"
             },
@@ -155,7 +155,7 @@
                 "type": "postback",
                 "label": "價目表",
                 "text": "indoor north price mega",
-                "data": "folder=indoor_north_price_pogo"
+                "data": "folder=indoor_north_price_mega"
               }
             },
             {
@@ -164,7 +164,7 @@
                 "type": "postback",
                 "label": "地址",
                 "text": "mega address",
-                "data": "folder=indoor_north_address_pogo"
+                "data": "folder=indoor_north_address_mega"
               }
             }
           ]
