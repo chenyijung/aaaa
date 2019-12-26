@@ -15,9 +15,10 @@
               "type": "text",
               "text": "Mega Stone",
               "size": "lg",
-              "align": "center",
               "weight": "bold",
-              "color": "#7B8786"
+              "position": "relative",
+              "align": "center",
+              "wrap": false
             }
           ]
         },
