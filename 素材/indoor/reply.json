@@ -7,8 +7,8 @@
       {
         "type": "postback",
         "label": "北部",
-        "text": "indoor_north_test",
-        "data": "folder=indoor_north_test"
+        "text": "",
+        "data": "folder=indoor_north"
       },
       {
         "type": "postback",
