@@ -1,8 +1,7 @@
 [{
   "type": "flex",
   "altText": "Flex Message",
-  "contents": 
-    {
+  "contents": {
   "type": "carousel",
   "contents": [
     {
@@ -208,4 +207,7 @@
         "paddingAll": "0px"
       }
     }
-  ]
+]
+
+
+}}]
