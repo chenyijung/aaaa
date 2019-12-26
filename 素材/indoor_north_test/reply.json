@@ -1,87 +1,208 @@
 [{
-  "type": "flex",
-  "altText": "Flex Message",
-  "contents": {
-    "type": "bubble",
-    "direction": "ltr",
-    "header": {
-      "type": "box",
-      "layout": "vertical",
-      "contents": [
-        {
-          "type": "text",
-          "text": "Mega Stone",
-          "size": "lg",
-          "align": "center",
-          "weight": "bold",
-          "color": "#7B8786"
-        }
-      ]
-    },
-    "hero": {
-      "type": "image",
-      "url": "https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/57618428_425139188047630_7415724180047396864_o.jpg?_nc_cat=107&_nc_ohc=KhHt1plpknMAQn0Y8q3TktyqkJnmY36N39USef3TtfXMypqTdey0KhKYQ&_nc_ht=scontent.ftpe8-3.fna&oh=c51f71993d44ad3f59f177adab5fa458&oe=5EA558A4",
-      "gravity": "top",
-      "size": "lg",
-      "aspectRatio": "1.51:1",
-      "aspectMode": "cover",
-      "backgroundColor": "#FFFDFD"
-    },
-    "body": {
-      "type": "box",
-      "layout": "vertical",
-      "contents": [
-        {
-          "type": "text",
-          "text": "抱石場/上攀場",
-          "size": "md",
-          "align": "center",
-          "color": "#050505"
-        },
-        {
-          "type": "text",
-          "text": "新北市新莊區",
-          "size": "sm",
-          "align": "center",
-          "gravity": "center",
-          "color": "#8C8585"
-        }
-      ]
-    },
-    "footer": {
-      "type": "box",
-      "layout": "vertical",
-      "spacing": "xs",
-      "margin": "lg",
-      "contents": [
-        {
-          "type": "button",
-          "action": {
-            "type": "uri",
-            "label": "Facebook",
-            "uri": "https://www.facebook.com/Mega-STONE-Climbing-Gym-425135808047968/?tn-str=k*F"
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "Mega Stone",
+            "size": "lg",
+            "weight": "bold",
+            "position": "relative",
+            "align": "center",
+            "wrap": false
+          }
+        ]
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://scontent.ftpe8-3.fna.fbcdn.net/v/t1.0-9/57618428_425139188047630_7415724180047396864_o.jpg?_nc_cat=107&_nc_ohc=KhHt1plpknMAQn0Y8q3TktyqkJnmY36N39USef3TtfXMypqTdey0KhKYQ&_nc_ht=scontent.ftpe8-3.fna&oh=c51f71993d44ad3f59f177adab5fa458&oe=5EA558A4",
+            "size": "md",
+            "aspectMode": "cover",
+            "aspectRatio": "2:3",
+            "gravity": "top",
+            "position": "relative",
+            "align": "center"
           },
-          "style": "primary"
-        },
-        {
-          "type": "button",
-          "action": {
-            "type": "postback",
-            "label": "價目表",
-            "text": "indoor north price mega",
-            "data": "folder=indoor_north_price_mega"
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "抱石場/上攀場",
+                    "size": "lg",
+                    "color": "#ffffff",
+                    "weight": "bold"
+                  }
+                ]
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "新北市新莊區",
+                    "color": "#ebebeb",
+                    "size": "sm",
+                    "flex": 0
+                  }
+                ],
+                "spacing": "lg"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "filler"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "baseline",
+                    "contents": [
+                      {
+                        "type": "filler"
+                      },
+                      {
+                        "type": "icon",
+                        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/F_icon.svg/768px-F_icon.svg.png"
+                      },
+                      {
+                        "type": "text",
+                        "color": "#ffffff",
+                        "flex": 0,
+                        "offsetTop": "-2px",
+                        "text": "Facebook",
+                        "action": {
+                          "type": "uri",
+                          "label": "facebook",
+                          "uri": "https://www.facebook.com/Mega-STONE-Climbing-Gym-425135808047968/?tn-str=k*F"
+                        }
+                      },
+                      {
+                        "type": "filler"
+                      }
+                    ],
+                    "spacing": "sm"
+                  },
+                  {
+                    "type": "filler"
+                  }
+                ],
+                "borderWidth": "1px",
+                "cornerRadius": "4px",
+                "spacing": "sm",
+                "borderColor": "#ffffff",
+                "margin": "xl",
+                "height": "40px"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "filler"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "baseline",
+                    "contents": [
+                      {
+                        "type": "filler"
+                      },
+                      {
+                        "type": "text",
+                        "text": "價目表",
+                        "flex": 0,
+                        "color": "#ffffff",
+                        "action": {
+                          "type": "postback",
+                          "data": "folder=indoor_north_price_mega"
+                        }
+                      },
+                      {
+                        "type": "filler"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "filler"
+                  }
+                ],
+                "spacing": "sm",
+                "margin": "xl",
+                "borderWidth": "1px",
+                "height": "40px",
+                "cornerRadius": "4px",
+                "borderColor": "#ffffff"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "filler"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "baseline",
+                    "contents": [
+                      {
+                        "type": "filler"
+                      },
+                      {
+                        "type": "text",
+                        "text": "地點",
+                        "color": "#ffffff",
+                        "flex": 0,
+                        "action": {
+                          "type": "uri",
+                          "uri": "https://goo.gl/maps/3RQEAMFYTpx29xZ56"
+                        }
+                      },
+                      {
+                        "type": "filler"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "filler"
+                  }
+                ],
+                "spacing": "sm",
+                "margin": "xl",
+                "height": "40px",
+                "borderWidth": "1px",
+                "borderColor": "#ffffff",
+                "cornerRadius": "4px"
+              }
+            ],
+            "position": "relative",
+            "offsetBottom": "0px",
+            "offsetStart": "0px",
+            "offsetEnd": "0px",
+            "backgroundColor": "#03303Acc",
+            "paddingAll": "50px",
+            "paddingTop": "18px",
+            "paddingBottom": "15px"
           }
-        },
-        {
-          "type": "button",
-          "action": {
-            "type": "postback",
-            "label": "地址",
-            "text": "mega address",
-            "data": "folder=indoor_north_address_mega"
-          }
-        }
-      ]
+        ],
+        "paddingAll": "0px"
+      }
     }
-  }
+  ]
 }]
