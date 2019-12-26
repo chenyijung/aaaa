@@ -163,7 +163,7 @@
         "action": {
           "type": "postback",
           "label": "action",
-          "data": "folder=outdoor_dragon"
+          "data": "folder=outdoor_guan"
         }
       }
     ],
@@ -245,7 +245,7 @@
         "action": {
           "type": "postback",
           "label": "action",
-          "data": "folder=outdoor_dragon"
+          "data": "folder=outdoor_shoushan"
         }
       }
     ],
