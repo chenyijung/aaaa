@@ -1,0 +1,423 @@
+[
+  {
+    "type": "flex",
+    "altText": "Flex Message",
+    "contents": {
+      "type": "carousel",
+      "contents": [
+        {
+          "type": "bubble",
+          "header": {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "攀岩小館",
+                "size": "lg",
+                "weight": "bold"
+              }
+            ],
+            "position": "relative"
+          },
+          "body": {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://scontent.ftpe8-3.fna.fbcdn.net/v/t31.0-8/27992861_893068910868467_2353626975145239657_o.png?_nc_cat=106&_nc_ohc=SzudM-Am8m0AQn0grBskQ_z1u6jOC444w4QuLrlGKNLGpHjbsm4CogQXw&_nc_ht=scontent.ftpe8-3.fna&oh=897618a58affe95f1008d626cbfba8eb&oe=5EADF7DE",
+                "size": "md",
+                "aspectMode": "fit",
+                "aspectRatio": "3:3",
+                "gravity": "center",
+                "position": "relative",
+                "margin": "sm"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "抱石場",
+                        "size": "md",
+                        "color": "#ffffff",
+                        "weight": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "box",
+                    "layout": "baseline",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "高雄市三民區",
+                        "color": "#ebebeb",
+                        "size": "sm",
+                        "flex": 0
+                      }
+                    ],
+                    "spacing": "lg"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "filler"
+                      },
+                      {
+                        "type": "box",
+                        "layout": "baseline",
+                        "contents": [
+                          {
+                            "type": "filler"
+                          },
+                          {
+                            "type": "icon",
+                            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/F_icon.svg/768px-F_icon.svg.png"
+                          },
+                          {
+                            "type": "text",
+                            "text": "Facebook",
+                            "color": "#ffffff",
+                            "flex": 0,
+                            "offsetTop": "-2px",
+                            "action": {
+                              "type": "uri",
+                              "label": "action",
+                              "uri": "https://www.facebook.com/ClimbingAndLife/"
+                            }
+                          },
+                          {
+                            "type": "filler"
+                          }
+                        ],
+                        "spacing": "sm"
+                      },
+                      {
+                        "type": "filler"
+                      }
+                    ],
+                    "borderWidth": "1px",
+                    "cornerRadius": "4px",
+                    "spacing": "sm",
+                    "borderColor": "#ffffff",
+                    "margin": "xxl",
+                    "height": "35px"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "filler"
+                      },
+                      {
+                        "type": "box",
+                        "layout": "baseline",
+                        "contents": [
+                          {
+                            "type": "filler"
+                          },
+                          {
+                            "type": "text",
+                            "text": "價目表",
+                            "color": "#ffffff",
+                            "flex": 0,
+                            "offsetTop": "-2px",
+                            "action": {
+                              "type": "uri",
+                              "label": "action",
+                              "uri": "https://www.facebook.com/pg/ClimbingAndLife/services/?ref=page_internal"
+                            }
+                          },
+                          {
+                            "type": "filler"
+                          }
+                        ],
+                        "spacing": "sm"
+                      },
+                      {
+                        "type": "filler"
+                      }
+                    ],
+                    "borderWidth": "1px",
+                    "cornerRadius": "4px",
+                    "spacing": "sm",
+                    "borderColor": "#ffffff",
+                    "margin": "xxl",
+                    "height": "35px"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "filler"
+                      },
+                      {
+                        "type": "box",
+                        "layout": "baseline",
+                        "contents": [
+                          {
+                            "type": "filler"
+                          },
+                          {
+                            "type": "text",
+                            "text": "立即前往",
+                            "color": "#ffffff",
+                            "flex": 0,
+                            "offsetTop": "-2px",
+                            "action": {
+                              "type": "uri",
+                              "label": "action",
+                              "uri": "https://goo.gl/maps/MDazonj7TCsF9rKy5"
+                            }
+                          },
+                          {
+                            "type": "filler"
+                          }
+                        ],
+                        "spacing": "sm"
+                      },
+                      {
+                        "type": "filler"
+                      }
+                    ],
+                    "borderWidth": "1px",
+                    "cornerRadius": "4px",
+                    "spacing": "sm",
+                    "borderColor": "#ffffff",
+                    "margin": "xxl",
+                    "height": "35px"
+                  }
+                ],
+                "position": "relative",
+                "offsetBottom": "0px",
+                "offsetStart": "0px",
+                "offsetEnd": "0px",
+                "backgroundColor": "#03303Acc",
+                "paddingAll": "20px",
+                "paddingTop": "18px"
+              }
+            ],
+            "paddingAll": "0px"
+          }
+        },
+        {
+          "type": "bubble",
+          "header": {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "text",
+                "text": "嗨翻綜合體能館",
+                "size": "lg",
+                "weight": "bold"
+              }
+            ],
+            "position": "relative"
+          },
+          "body": {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://scontent.ftpe8-1.fna.fbcdn.net/v/t1.0-9/56544672_2339461776073716_1084267208294531072_n.jpg?_nc_cat=108&_nc_ohc=1Fb2qrU0BnMAQk29p27fGA_ugI8L1bkhq6HdLxZ3MIwbSL_n05Q0Fuz7A&_nc_ht=scontent.ftpe8-1.fna&oh=9c3ec77516a431c7eee1991faed777c0&oe=5E761AE6",
+                "size": "md",
+                "aspectMode": "fit",
+                "aspectRatio": "3:3",
+                "gravity": "center",
+                "position": "relative",
+                "margin": "sm"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "box",
+                    "layout": "horizontal",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "抱石場/上攀場",
+                        "size": "md",
+                        "color": "#ffffff",
+                        "weight": "bold"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "box",
+                    "layout": "baseline",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "台南市北區",
+                        "color": "#ebebeb",
+                        "size": "sm",
+                        "flex": 0
+                      }
+                    ],
+                    "spacing": "lg"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "filler"
+                      },
+                      {
+                        "type": "box",
+                        "layout": "baseline",
+                        "contents": [
+                          {
+                            "type": "filler"
+                          },
+                          {
+                            "type": "icon",
+                            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/F_icon.svg/768px-F_icon.svg.png"
+                          },
+                          {
+                            "type": "text",
+                            "text": "Facebook",
+                            "color": "#ffffff",
+                            "flex": 0,
+                            "offsetTop": "-2px",
+                            "action": {
+                              "type": "uri",
+                              "label": "action",
+                              "uri": "https://www.facebook.com/highfun55/"
+                            }
+                          },
+                          {
+                            "type": "filler"
+                          }
+                        ],
+                        "spacing": "sm"
+                      },
+                      {
+                        "type": "filler"
+                      }
+                    ],
+                    "borderWidth": "1px",
+                    "cornerRadius": "4px",
+                    "spacing": "sm",
+                    "borderColor": "#ffffff",
+                    "margin": "xxl",
+                    "height": "35px"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "filler"
+                      },
+                      {
+                        "type": "box",
+                        "layout": "baseline",
+                        "contents": [
+                          {
+                            "type": "filler"
+                          },
+                          {
+                            "type": "text",
+                            "text": "價目表",
+                            "color": "#ffffff",
+                            "flex": 0,
+                            "offsetTop": "-2px",
+                            "action": {
+                              "type": "uri",
+                              "label": "action",
+                              "uri": "https://scontent.ftpe8-1.fna.fbcdn.net/v/t1.0-9/71879631_2670331639653393_4909614838755360768_o.jpg?_nc_cat=105&_nc_ohc=E1fnsAQj_4MAQmoudBSPrSI7eU8IjdvL5oBnYyxJUYPPj_2gaa9rQDQzg&_nc_ht=scontent.ftpe8-1.fna&oh=4482e0d1022109613715b088c9e4a231&oe=5EB34E0D"
+                            }
+                          },
+                          {
+                            "type": "filler"
+                          }
+                        ],
+                        "spacing": "sm"
+                      },
+                      {
+                        "type": "filler"
+                      }
+                    ],
+                    "borderWidth": "1px",
+                    "cornerRadius": "4px",
+                    "spacing": "sm",
+                    "borderColor": "#ffffff",
+                    "margin": "xxl",
+                    "height": "35px"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "filler"
+                      },
+                      {
+                        "type": "box",
+                        "layout": "baseline",
+                        "contents": [
+                          {
+                            "type": "filler"
+                          },
+                          {
+                            "type": "text",
+                            "text": "立即前往",
+                            "color": "#ffffff",
+                            "flex": 0,
+                            "offsetTop": "-2px",
+                            "action": {
+                              "type": "uri",
+                              "label": "action",
+                              "uri": "https://goo.gl/maps/YqXJiPDRLKCpiZF16"
+                            }
+                          },
+                          {
+                            "type": "filler"
+                          }
+                        ],
+                        "spacing": "sm"
+                      },
+                      {
+                        "type": "filler"
+                      }
+                    ],
+                    "borderWidth": "1px",
+                    "cornerRadius": "4px",
+                    "spacing": "sm",
+                    "borderColor": "#ffffff",
+                    "margin": "xxl",
+                    "height": "35px"
+                  }
+                ],
+                "position": "relative",
+                "offsetBottom": "0px",
+                "offsetStart": "0px",
+                "offsetEnd": "0px",
+                "backgroundColor": "#03303Acc",
+                "paddingAll": "20px",
+                "paddingTop": "18px"
+              }
+            ],
+            "paddingAll": "0px"
+          }
+        }
+      ]
+    }
+  }
+]

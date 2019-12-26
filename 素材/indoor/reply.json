@@ -7,25 +7,21 @@
       {
         "type": "postback",
         "label": "北部",
-        "text": "北北北北北",
         "data": "folder=indoor_north"
       },
       {
         "type": "postback",
         "label": "中部",
-        "text": "中",
         "data": "folder=indoor_west"
       },
       {
         "type": "postback",
         "label": "南部",
-        "text": "南",
         "data": "folder=indoor_south"
       },
       {
         "type": "postback",
         "label": "東部",
-        "text": "東",
         "data": "folder=indoor_east"
       }
     ],
